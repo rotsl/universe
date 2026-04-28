@@ -9,7 +9,7 @@ Big cave for packages made by [**rotsl**](https://github.com/rotsl).
 [![packages status badge](https://rotsl.r-universe.dev/badges/:packages)](https://rotsl.r-universe.dev/packages)
 [![registry status badge](https://rotsl.r-universe.dev/badges/:registry)](https://rotsl.r-universe.dev/)
 [![articles status badge](https://rotsl.r-universe.dev/badges/:articles)](https://rotsl.r-universe.dev/articles)
-
+[![R-universe downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Frotsl.r-universe.dev%2Fapi%2Fpackages%2Fgrayleafspotr&query=%24._downloads.count&label=downloads&suffix=%20last%20month&color=blue)](https://rotsl.r-universe.dev/grayleafspotr)
 ---
 
 ## Cave Packages
