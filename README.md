@@ -32,9 +32,7 @@ install.packages('grayleafspotr', repos = c('https://rotsl.r-universe.dev', 'htt
 
 ## Big Scrolls
 
-Read package wisdom here:
-
-- https://rotsl.github.io/grayleafspotr/
+[Read package wisdom here](https://rotsl.github.io/grayleafspotr/)
 
 Find:
 
@@ -45,11 +43,13 @@ Find:
 - New updates?
 
 ## Magic Demo Cave
-
 Try shiny leaf spot machine here:
 
-- Demo cave: https://huggingface.co/spaces/rotsl/grayleafspot-segmentation-demo
-- Model cave: https://huggingface.co/rotsl/grayleafspot-segmentation-demo
+- [Demo cave](https://huggingface.co/spaces/rotsl/grayleafspot-segmentation-demo)
+- [Model cave](https://huggingface.co/rotsl/grayleafspot-segmentation-demo)
+
+[![License](https://img.shields.io/badge/License-Apache%202.0-green.svg)](https://opensource.org/licenses/Apache-2.0)
+[![DOI](https://img.shields.io/badge/DOI-10.57967%2Fhf%2F8569-orange)](https://doi.org/10.57967/hf/8569)
 
 Magic cave do:
 
