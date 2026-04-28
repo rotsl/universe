@@ -43,7 +43,7 @@ Find:
 - New updates?
 
 ## Magic Demo Cave
-Try shiny leaf spot machine here:
+Try  leaf spot machine here:
 
 - [Demo cave](https://huggingface.co/spaces/rotsl/grayleafspot-segmentation-demo)
 - [Model cave](https://huggingface.co/rotsl/grayleafspot-segmentation-demo)
